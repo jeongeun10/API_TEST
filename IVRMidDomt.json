@@ -1,0 +1,11 @@
+{
+    "IVRMidDomptInput" : {
+      "JUMIN" : "9710141234567",
+      "IP" : "01036739214"
+   } ,
+   "AIACCCIVR" : {
+     "RESULT_CD" : "000",
+     "RESULT" : "일반고객",
+     "MidDomtYN" : "Y"
+   }
+}
